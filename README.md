@@ -8,4 +8,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1193-monthly-transactions-i](https://github.com/ArvindPadala/dailycode/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/ArvindPadala/dailycode/tree/master/1211-queries-quality-and-percentage) |
+| [1667-fix-names-in-a-table](https://github.com/ArvindPadala/dailycode/tree/master/1667-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
