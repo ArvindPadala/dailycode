@@ -5,12 +5,10 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        s=set()
-        l=len(nums)
-        for i in range(l):
-            for j in range(i+1, l):
-                if nums[i]+nums[j]==target:
-                    s.add(i)
-                    s.add(j)
-        return list(s)
+        seen={}
+        for i,num in enumerate(nums):
+            need=target-num
+            if need in seen:
+                return[seen[need],i]
+            seen[num]=i
         
