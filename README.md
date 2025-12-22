@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/ArvindPadala/dailycode/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/ArvindPadala/dailycode/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/ArvindPadala/dailycode/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1164-product-price-at-a-given-date](https://github.com/ArvindPadala/dailycode/tree/master/1164-product-price-at-a-given-date) |
 | [1193-monthly-transactions-i](https://github.com/ArvindPadala/dailycode/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/ArvindPadala/dailycode/tree/master/1211-queries-quality-and-percentage) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/ArvindPadala/dailycode/tree/master/1327-list-the-products-ordered-in-a-period) |
