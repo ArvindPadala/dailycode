@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/ArvindPadala/dailycode/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/ArvindPadala/dailycode/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/ArvindPadala/dailycode/tree/master/0182-duplicate-emails) |
+| [0183-customers-who-never-order](https://github.com/ArvindPadala/dailycode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/ArvindPadala/dailycode/tree/master/0196-delete-duplicate-emails) |
 | [0550-game-play-analysis-iv](https://github.com/ArvindPadala/dailycode/tree/master/0550-game-play-analysis-iv) |
 | [0596-classes-with-at-least-5-students](https://github.com/ArvindPadala/dailycode/tree/master/0596-classes-with-at-least-5-students) |
