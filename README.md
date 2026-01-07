@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ArvindPadala/dailycode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ArvindPadala/dailycode/tree/master/0014-longest-common-prefix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArvindPadala/dailycode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0605-can-place-flowers](https://github.com/ArvindPadala/dailycode/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ArvindPadala/dailycode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ArvindPadala/dailycode/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/ArvindPadala/dailycode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
