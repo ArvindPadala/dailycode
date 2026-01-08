@@ -60,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArvindPadala/dailycode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ArvindPadala/dailycode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/ArvindPadala/dailycode/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ArvindPadala/dailycode/tree/master/0014-longest-common-prefix) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ArvindPadala/dailycode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ArvindPadala/dailycode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/ArvindPadala/dailycode/tree/master/1768-merge-strings-alternately) |
 ## Array
