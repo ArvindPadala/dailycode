@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ArvindPadala/dailycode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArvindPadala/dailycode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ArvindPadala/dailycode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ArvindPadala/dailycode/tree/master/0344-reverse-string) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ArvindPadala/dailycode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ArvindPadala/dailycode/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/ArvindPadala/dailycode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArvindPadala/dailycode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ArvindPadala/dailycode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/ArvindPadala/dailycode/tree/master/0605-can-place-flowers) |
