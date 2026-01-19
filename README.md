@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ArvindPadala/dailycode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2485-find-the-pivot-integer](https://github.com/ArvindPadala/dailycode/tree/master/2485-find-the-pivot-integer) |
 ## Trie
 |  |
 | ------- |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ArvindPadala/dailycode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/ArvindPadala/dailycode/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
