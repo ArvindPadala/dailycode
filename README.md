@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ArvindPadala/dailycode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/ArvindPadala/dailycode/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ArvindPadala/dailycode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ArvindPadala/dailycode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2460-apply-operations-to-an-array](https://github.com/ArvindPadala/dailycode/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ArvindPadala/dailycode/tree/master/0392-is-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ArvindPadala/dailycode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 <!---LeetCode Topics End-->
