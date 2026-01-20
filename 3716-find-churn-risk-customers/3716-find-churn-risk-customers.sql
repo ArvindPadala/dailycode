@@ -1,13 +1,30 @@
-# Write your MySQL query statement below
+WITH x AS (
+  SELECT
+    user_id,
+    plan_name,
+    monthly_amount,
+    event_type,
+    event_date,
+    ROW_NUMBER() OVER (PARTITION BY user_id ORDER BY event_date DESC) AS rn,
 
-with A as(select *, row_number() over (
-    partition by user_id
-    order by event_date desc
-) as rn from subscription_events),
-
-B as(select A.user_id as user_id, min(rn) as mi from A group by user_id)
-
-select t.user_id, t.current_plan, t.current_monthly_amount, t.max_historical_amount, t.days_as_subscriber from( 
-select A.user_id as user_id, case when A.rn=B.mi then A.plan_name end as current_plan,sum(case when event_type='downgrade' then 1 else 0 end) as cnt,
-case when A.rn=B.mi then A.monthly_amount end as current_monthly_amount, max(A.monthly_amount) as max_historical_amount, datediff(max(A.event_date),min(A.event_date)) as days_as_subscriber from A join B using(user_id) group by A.user_id) as t 
-where t.days_as_subscriber>59 and t.cnt>0 and (t.current_monthly_amount/t.max_historical_amount)*100<50 and t.current_plan is not null order by 5 desc, 1 
+    MAX(monthly_amount) OVER (PARTITION BY user_id) AS max_historical_amount,
+    DATEDIFF(
+      MAX(event_date) OVER (PARTITION BY user_id),
+      MIN(event_date) OVER (PARTITION BY user_id)
+    ) AS days_as_subscriber,
+    SUM(event_type = 'downgrade') OVER (PARTITION BY user_id) AS downgrade_cnt
+  FROM subscription_events
+)
+SELECT
+  user_id,
+  plan_name AS current_plan,
+  monthly_amount AS current_monthly_amount,
+  max_historical_amount,
+  days_as_subscriber
+FROM x
+WHERE rn = 1
+  AND days_as_subscriber > 59
+  AND downgrade_cnt > 0
+  AND (monthly_amount / max_historical_amount) * 100 < 50
+  AND plan_name is not null
+ORDER BY days_as_subscriber DESC, user_id;
