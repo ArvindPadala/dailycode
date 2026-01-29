@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/ArvindPadala/dailycode/tree/master/0263-ugly-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ArvindPadala/dailycode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2485-find-the-pivot-integer](https://github.com/ArvindPadala/dailycode/tree/master/2485-find-the-pivot-integer) |
 ## Trie
