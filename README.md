@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/ArvindPadala/dailycode/tree/master/0263-ugly-number) |
+| [0728-self-dividing-numbers](https://github.com/ArvindPadala/dailycode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ArvindPadala/dailycode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ArvindPadala/dailycode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2485-find-the-pivot-integer](https://github.com/ArvindPadala/dailycode/tree/master/2485-find-the-pivot-integer) |
