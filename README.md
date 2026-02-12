@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ArvindPadala/dailycode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ArvindPadala/dailycode/tree/master/0119-pascals-triangle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArvindPadala/dailycode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/ArvindPadala/dailycode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ArvindPadala/dailycode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/ArvindPadala/dailycode/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ArvindPadala/dailycode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -152,5 +153,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ArvindPadala/dailycode/tree/master/0238-product-of-array-except-self) |
 | [2485-find-the-pivot-integer](https://github.com/ArvindPadala/dailycode/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
